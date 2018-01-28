@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="script.libraryhelper"
+version="1.0"
+name="Library Helper"
+provider-name="smitchell6879">
+<requires>
+  <import addon="xbmc.python" version="2.24.0"/>
+  <import addon="xbmc.json" version="8.0.0"/>
+</requires>
+<extension point="kodi.context.item">
+    <menu id="kodi.core.main">
+      <item library="addon.py">
+        <label>30003</label>
+        <visible>Container.Content(sets)</visible>
+      </item>
+    </menu>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en"></summary>
+  <description lang="en"></description>
+  <disclaimer lang="en"></disclaimer>
+  <assets>
+    <icon></icon>
+    <fanart></fanart>
+    <screenshot></screenshot>
+    <screenshot></screenshot>
+    <screenshot></screenshot>    
+  </assets>
+  <news></news>
+</extension>
+</addon>

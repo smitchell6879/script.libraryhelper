@@ -1,0 +1,155 @@
+# XBMC Media Center language file
+# Addon Name: Library Helper
+# Addon id: script.libraryhelper
+msgid ""
+msgstr ""
+
+#######################################################
+
+msgctxt "#30000"
+msgid "Library Helper"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Updating Movieset Artwork "
+msgstr ""
+
+msgctxt "#30002"
+msgid " Out of "
+msgstr "
+
+msgctxt "#30003"
+msgid "Update Artwork"
+msgstr "
+
+msgctxt "#30004"
+msgid "All Moviesets Have Been Updated, Successfully"
+msgstr ""
+
+msgctxt "#30005"
+msgid " Have Been Updated"
+msgstr ""
+
+msgctxt "#30006"
+msgid " Collections"
+msgstr ""
+
+msgctxt "#30007"
+msgid ""
+msgstr ""
+
+msgctxt "#30008"
+msgid ""
+msgstr ""
+
+msgctxt "#30009"
+msgid ""
+msgstr ""
+
+msgctxt "#30010"
+msgid ""
+msgstr ""
+
+msgctxt "#30011"
+msgid ""
+msgstr ""
+
+msgctxt "#30012"
+msgid ""
+msgstr ""
+
+msgctxt "#30013"
+msgid ""
+msgstr ""
+
+msgctxt "#30014"
+msgid ""
+msgstr ""
+
+msgctxt "#30015"
+msgid ""
+msgstr ""
+
+msgctxt "#30016"
+msgid ""
+msgstr ""
+
+msgctxt "#30017"
+msgid ""
+msgstr ""
+
+msgctxt "#30018"
+msgid ""
+msgstr ""
+
+msgctxt "#30019"
+msgid ""
+msgstr ""
+
+msgctxt "#30020"
+msgid ""
+msgstr ""
+
+msgctxt "#30021"
+msgid ""
+msgstr ""
+
+msgctxt "#30022"
+msgid ""
+msgstr ""
+
+msgctxt "#30023"
+msgid ""
+msgstr ""
+
+msgctxt "#30024"
+msgid ""
+msgstr ""
+
+msgctxt "#30025"
+msgid ""
+msgstr ""
+
+msgctxt "#30026"
+msgid ""
+msgstr ""
+
+msgctxt "#30027"
+msgid ""
+msgstr ""
+
+msgctxt "#30050"
+msgid ""
+msgstr ""
+
+msgctxt "#30051"
+msgid ""
+msgstr ""
+
+msgctxt "#30052"
+msgid ""
+msgstr ""
+
+msgctxt "#30053"
+msgid ""
+msgstr ""
+
+msgctxt "#30054"
+msgid ""
+msgstr ""
+
+msgctxt "#30055"
+msgid ""
+msgstr ""
+
+msgctxt "#30056"
+msgid ""
+msgstr ""
+
+msgctxt "#30057"
+msgid ""
+msgstr ""
+
+msgctxt "#30058"
+msgid ""
+msgstr ""
